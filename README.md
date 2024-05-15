@@ -13,7 +13,7 @@ Components Used : Room Database,DaggerHilt
 
 <img src="https://github.com/vandannandwana/VoDo-Todo-App-/assets/144916127/0cf074f6-5e0f-4cb5-8d23-6e3dee1b673d" alt="light_one" width="200">
 
-<img src="(https://github.com/vandannandwana/VoDo-Todo-App-/assets/144916127/d0604a31-fd35-49ea-b092-71077584e130" alt="light_two" width="200">
+<img src="https://github.com/vandannandwana/VoDo-Todo-App-/assets/144916127/d0604a31-fd35-49ea-b092-71077584e130" alt="light_two" width="200">
 
 # Dark Mode Screen
 
